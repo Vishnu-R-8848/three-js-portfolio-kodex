@@ -7,14 +7,14 @@ import projects from "../data/Projects.js"
 const HomePage = () => {
 
     // console.log(projects)
-    
+
 
     return (
         <div
             className='h-screen w-full bg-neutral-900 text-neutral-200'
         >
             <Canvas camera={{ position: [2, 2, 2], fov: 75 }}>
-                <OrbitControls />
+                {/* <OrbitControls /> */}
                 <Experience />
             </Canvas>
         </div>

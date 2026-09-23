@@ -100,23 +100,7 @@ const projects = [
     visit: "https://session-task-nine.vercel.app/",
     github: "https://github.com/Vishnu-R-8848/session-task",
   },
-  {
-    id: "p7",
-    slug: "responsive-img",
-    title: "Responsive Imagery",
-    client: "Practice Project",
-    year: 2025,
-    color: "#1c1917",
-    thumbnail:
-      "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
-    cover:
-      "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=1600&q=85",
-    description:
-      "Adaptive layout system designed for high-resolution responsive imagery.",
-    tags: ["CSS", "Responsive", "Frontend"],
-    visit: "https://responsive-img-2-f12y.vercel.app/",
-    github: "https://github.com/Vishnu-R-8848/responsive-img-2",
-  },
+  
 ];
 
 export default projects;
